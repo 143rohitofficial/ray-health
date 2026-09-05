@@ -27,19 +27,19 @@ ray-health/
 ├── functions.php
 ├── index.php
 ├── front-page.php
+├── single-product.php
 ├── header.php
 ├── footer.php
 ├── screenshot.png
 ├── README.md
+├── taxonomy-treatment_category.php
 ├── template-parts/
 │   ├── hero.php
 │   ├── categories.php
 │   └── how-it-works.php
 └── assets/
-    ├── css/
-    │   └── main.css
-    ├── js/
-    │   └── main.js
+    ├── css/main.css
+    ├── js/main.js
     └── images/
 ```
 
